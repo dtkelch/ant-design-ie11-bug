@@ -2,9 +2,11 @@
 
 To run the application
 
-`yarn` to install dependencies
+* `yarn` to install dependencies
 
-`yarn dev` to run the app
+* `yarn dev` to run the app
+
+* Open [http://localhost:3000](http://localhost:3000)
 
 Any dropdown, popover, etc. will flash when running the application in Internet Explorer 11
 
